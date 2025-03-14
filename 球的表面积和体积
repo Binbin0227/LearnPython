@@ -1,0 +1,4 @@
+r=eval(input('半径：'))
+pai=3.14
+print('S=',4*pai*r**2)
+print('V=',4/3*pai*r**3)
